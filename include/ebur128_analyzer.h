@@ -21,7 +21,7 @@
 #include <string>
 #include <vector>
 
-#include "ebur128_constants.h"
+#include "include/ebur128_constants.h"
 
 namespace loudness {
 
